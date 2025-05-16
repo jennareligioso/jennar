@@ -1,5 +1,17 @@
 ---
-title: "jennar"
+title: "Jenna Religioso"
+about:
+  template: trestles
+  image: images/LinkedIn Headshot.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: resume
+      file: "Resume.pdf"
 ---
 
 This is a Quarto website.
